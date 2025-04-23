@@ -1,7 +1,7 @@
 # Dynamic Minimal Services
 
 ## How It Works
-By comparing required services from safemode with networking with normal boot services a slimed down list can be created with minimal impact to normal Windows functionality 
+By comparing required services from safemode with networking with normal boot services a slimmed down list can be created with minimal impact to normal Windows functionality 
 
 Idea From: [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup/blob/master/CONTENT/SCRIPTS/SafeMode.ps1)
 
