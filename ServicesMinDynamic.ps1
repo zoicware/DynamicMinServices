@@ -106,7 +106,8 @@ function Disable-Services {
         'camsvc',
         'Schedule',
         'iphlpsvc',
-        'Appinfo'
+        'Appinfo',
+        'DispBrokerDesktopSvc'
     )
 
     $normalModeSvcs = Compare-ServiceData
